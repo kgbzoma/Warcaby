@@ -1,0 +1,11 @@
+c:\users\krzysztof\documents\visual studio 2015\Projects\Warcaby\Warcaby\bin\Debug\Warcaby.exe.config
+c:\users\krzysztof\documents\visual studio 2015\Projects\Warcaby\Warcaby\bin\Debug\Warcaby.exe
+c:\users\krzysztof\documents\visual studio 2015\Projects\Warcaby\Warcaby\bin\Debug\Warcaby.pdb
+c:\users\krzysztof\documents\visual studio 2015\Projects\Warcaby\Warcaby\obj\Debug\Warcaby.csprojResolveAssemblyReference.cache
+c:\users\krzysztof\documents\visual studio 2015\Projects\Warcaby\Warcaby\obj\Debug\Warcaby.Properties.Resources.resources
+c:\users\krzysztof\documents\visual studio 2015\Projects\Warcaby\Warcaby\obj\Debug\Warcaby.csproj.GenerateResource.Cache
+c:\users\krzysztof\documents\visual studio 2015\Projects\Warcaby\Warcaby\obj\Debug\Warcaby.exe
+c:\users\krzysztof\documents\visual studio 2015\Projects\Warcaby\Warcaby\obj\Debug\Warcaby.pdb
+D:\Ważne programy\Warcaby\Warcaby\bin\Debug\Warcaby.exe.config
+D:\Ważne programy\Warcaby\Warcaby\obj\Debug\Warcaby.exe
+D:\Ważne programy\Warcaby\Warcaby\obj\Debug\Warcaby.pdb
